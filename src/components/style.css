@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.search {
+  font-size: 29px;
+  color: rgba(0, 0, 0, 0.55);
+  margin: 5px 5px;
+}
+.search1 {
+  width: 315px;
+}
+.user {
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 26px;
+  margin: 0 5px;
+}
+.user:hover {
+  color: black;
+}
+.car_img {
+  height: 420px;
+}
+.login {
+  width: 400px;
+  padding-bottom: 17px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.apply {
+  margin: 0 39px;
+}
+.product {
+  padding: 0 49px;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.55);
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+.brnd {
+  color: black;
+}
